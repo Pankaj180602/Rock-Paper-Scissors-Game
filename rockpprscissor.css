@@ -16,7 +16,7 @@ h1{
 }
 
 .rockpprscissor-content-container{
-    height: calc(100vh - 22vh);
+    height: calc(100vh - 25vh);
     display: flex;
     flex-direction: column;
     justify-content: center;
